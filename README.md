@@ -17,7 +17,7 @@
 ## 🎓 About Me
 
 - 🏛️ B.Tech in Mechanical Engineering @ **IIT (BHU) Varanasi** (2024 – 2028). Yes, I build software and not engines. The engines will be fine without me.
-- 💻 Into **DSA, graph algorithms, concurrency, and full-stack development**
+- 💻 Into **DSA, AI/ML, graph algorithms, concurrency, and full-stack development**
 - 🧩 Competitive programmer: **Pupil (1236) on Codeforces**
   
 ### 🧠 The Dorky Details
