@@ -98,7 +98,7 @@ An IRCTC Tatkal-style booking engine in **C++17**.
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-![AI/ML](https://img.shields.io/badge/AI%2FML-Learned-8A2BE2?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
