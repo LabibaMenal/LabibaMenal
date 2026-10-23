@@ -98,11 +98,11 @@ An IRCTC Tatkal-style booking engine in **C++17**.
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+![AI/ML](https://img.shields.io/badge/AI%2FML-Learned-8A2BE2?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-just_getting_started-8A2BE2?style=for-the-badge)
 
 **Core strengths:** Data Structures & Algorithms · Graph Algorithms · AI/ML · Concurrency Control · REST APIs · OOP
 **Currently leveling up:** AI / Machine Learning 🌱
