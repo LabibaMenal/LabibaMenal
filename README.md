@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Labiba 👋
+# Hey, I'm Labiba
 
 ### another software and systems dork(trust me I'm different from the millions worldwide) 🐱‍💻
 
